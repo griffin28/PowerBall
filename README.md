@@ -17,3 +17,13 @@ AI Agent that generates powerball numbers and displays previous drawings.
 export HF_TOKEN=YOUR_HF_TOKEN
 python app.py
 ```
+
+# Quick Start
+
+## Help (type "help" or ?)
+
+
+## Retrieve PowerBall Drawings
+
+
+## Create PowerBall Drawings to Play
