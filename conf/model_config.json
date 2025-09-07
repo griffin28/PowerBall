@@ -1,0 +1,4 @@
+{
+    "agent_type": "hf",
+    "model_id": "Qwen/Qwen2.5-Coder-32B-Instruct"
+}
