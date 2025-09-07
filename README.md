@@ -15,10 +15,10 @@
 
 # Run
 ```bash
-git clone git@github.com:griffin28/PowerBall.git
-export HF_TOKEN=YOUR_HF_TOKEN
-cd PowerBall
-python app.py
+$ git clone git@github.com:griffin28/PowerBall.git
+$ export HF_TOKEN=YOUR_HF_TOKEN
+$ cd PowerBall
+$ python app.py
 ```
 
 # Quick Start
