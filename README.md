@@ -1,7 +1,8 @@
 
-# PowerBall<img width="917" height="651" alt="pb_screenshot" src="https://github.com/user-attachments/assets/16acac1f-2cc8-4bd3-bbb3-2c21bd79ecaa" />
+# PowerBall AI Agent
+## AI Agent that generates powerball numbers and displays previous drawings.
 
-AI Agent that generates powerball numbers and displays previous drawings.
+<img width="917" height="651" alt="pb_screenshot" src="https://github.com/user-attachments/assets/16acac1f-2cc8-4bd3-bbb3-2c21bd79ecaa" />
 
 # Requirements
 1. [HuggingFace](https://huggingface.co/) Access Token
